@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @titovaliant
-- 👀 I’m interested in Mobile and Website Developer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE.JS, REACT.JS, PostgresSQL.
-- 💞️ I’m looking to collaborate on Software Engineer: WEB Developer, Mobile Developer
+- 👀 I’m interested in Software Quality Assurance/Test Engineer and Website Developer
+- 🌱 For WEB Tech I’m learning HTML, CSS, JAVASCRIPT, NODE.JS, REACT.JS, PostgresSQL, Firebase.
+- 🌱 For QA Testing I’m learning Postman, Katalon Studio, Selenium with Python, Robot Framework.
+- 💞️ I’m looking to collaborate on WEB Developer or Software Quality Assurance/Test Engineer.
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/titovaliantmuhammad/
+
 
 <!---
 titovaliant/titovaliant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
